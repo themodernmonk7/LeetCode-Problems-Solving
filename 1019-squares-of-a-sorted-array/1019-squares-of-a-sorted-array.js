@@ -3,14 +3,25 @@
  * @return {number[]}
  */
 var sortedSquares = function(nums) {
-        const n = nums.length
-    
-    let result = []
+    const n = nums.length
+
     for(let i = 0; i < n; i++) {
-      const value = nums[i] * nums[i]
-      result.push(value)
+        nums[i] = nums[i] * nums[i]
     }
-    result.sort()
-    const sorted  =result.sort((a, b) => a - b)
-    return sorted
+
+
+    let left = 0
+    let right = n - 1
+    let result = new Array(n)
+
+    for(let i = n -1 ; i >= 0; i--) {
+        if(nums[left] > nums[right]) {
+            result[i] = nums[left]
+            left++
+        } else {
+            result[i] = nums[right]
+            right--
+        }
+    }
+    return result
 };
