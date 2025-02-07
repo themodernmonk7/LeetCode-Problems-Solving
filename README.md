@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
