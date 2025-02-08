@@ -4,17 +4,15 @@
  */
 var compactObject = function(obj) {
     if(typeof obj !== 'object' || obj === null) return obj
-
-    if(Array.isArray(obj)) {
-        return obj.filter(Boolean).map(compactObject)
-    }
-
-    let result = {}
-    for(let key in obj) {
-        const value = obj[key]
-        if(value) {
-            result[key] = compactObject(value)
-        }
-    }
-    return result
+  if(Array.isArray(obj)) {
+    return obj.reduce((accumulator, value) => {
+      if(value) accumulator.push(compactObject(value))
+      return accumulator
+    }, [])
+  }
+  
+  return Object.keys(obj).reduce((accumulator, key) => {
+    if(obj[key]) accumulator[key] = compactObject(obj[key])
+    return accumulator
+  }, {})
 };
