@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0189-rotate-array) |
 ## Sliding Window
 |  |
@@ -127,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
