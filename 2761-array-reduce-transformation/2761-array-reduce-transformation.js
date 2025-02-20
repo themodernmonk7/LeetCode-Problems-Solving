@@ -5,12 +5,23 @@
  * @return {number}
  */
 var reduce = function(nums, fn, init) {
-    
-    let result = init
 
-    for(let i = 0; i < nums.length; i++) {
-        result = fn(result, nums[i])
+    const n = nums.length
+    let accumulator = init
+    let startIndex = 0
+
+    if(accumulator === undefined) {
+        for(let i = 0; i < n; i++) {
+            if(nums.hasOwnProperty(i)) {
+                accumulator = nums[i]
+                startIndex = i + 1
+                break
+            }
+        }
     }
 
-    return result
+    for(let i = startIndex; i < n; i++) {
+        accumulator = fn(accumulator, nums[i], i, nums)
+    }
+    return accumulator
 };
