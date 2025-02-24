@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0937-online-stock-span) |
@@ -90,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0937-online-stock-span) |
 ## Data Stream
