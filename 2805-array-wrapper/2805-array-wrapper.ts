@@ -5,7 +5,7 @@ class ArrayWrapper {
     }
     
     valueOf(): number {
-        return this.nums.reduce((accumulator, current) => accumulator + current, 0)
+        return this.nums.reduce((acc, curr) => acc + curr, 0)
     }
     
     toString(): string {
