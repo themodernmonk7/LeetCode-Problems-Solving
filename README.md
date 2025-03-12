@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
