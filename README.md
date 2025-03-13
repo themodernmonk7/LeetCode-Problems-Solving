@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
