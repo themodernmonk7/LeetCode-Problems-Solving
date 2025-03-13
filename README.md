@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Queue
 |  |
 | ------- |
