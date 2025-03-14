@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
