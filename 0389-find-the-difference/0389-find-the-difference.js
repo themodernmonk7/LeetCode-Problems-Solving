@@ -4,20 +4,14 @@
  * @return {character}
  */
 var findTheDifference = function(s, t) {
-  if (s.length === 0) return t
-
   let sFreq = {}
 
-  for (let char of t) {
+  for (let char of s) {
     sFreq[char] = sFreq[char] ? sFreq[char] + 1 : 1
   }
 
-  for (let char of s) {
-    if (sFreq[char]) {
+  for (let char of t) {
+    if (!sFreq[char]) return char
       sFreq[char]--
-    }
-  }
-  for (let key in sFreq) {
-    if (sFreq[key]) return key
   }
 };
