@@ -5,13 +5,13 @@
  */
 var intersection = function(nums1, nums2) {
         const unique = new Set(nums1)
-    let result = []
+    let result = new Set()
     
     for(let num of nums2) {
       if(unique.has(num)) {
-        result.push(num)
+        result.add(num)
         
       }
     }
-    return [...new Set(result)]
+    return Array.from(result)
 };
