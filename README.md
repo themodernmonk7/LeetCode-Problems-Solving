@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
