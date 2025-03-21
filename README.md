@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -202,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 ## Recursion
 |  |
 | ------- |
