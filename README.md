@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
