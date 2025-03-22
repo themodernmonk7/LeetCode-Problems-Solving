@@ -3,19 +3,16 @@
  * @return {number}
  */
 var maxPower = function(s) {
-      const n = s.length
-  let maxCount = 0
-  for (let i = 0; i < n; i++) {
-    let current = 0
-
-    for (let j = 0; j < n; j++) {
-      if (s[i] === s[i + j]) {
-        current++
-        maxCount = Math.max(maxCount, current)
-      } else {
-        current = 0
-      }
+  const n = s.length
+  let maxCount = 1
+  let current = 1
+  for (let i = 1; i < n; i++) {
+    if (s[i] === s[i - 1]) {
+      current++
+    } else {
+      current = 1
     }
+    maxCount = Math.max(maxCount, current)
   }
 
   return maxCount
