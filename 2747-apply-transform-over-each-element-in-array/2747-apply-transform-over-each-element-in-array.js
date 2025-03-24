@@ -4,13 +4,18 @@
  * @return {number[]}
  */
 var map = function(arr, fn) {
-    if(!Array.isArray(arr)) {
-        throw new TypeError(`${arr} is not an array`)
+    if(typeof fn !== 'function') {
+        throw new TypeError(`${fn} is not a function`)
     }
+    if(!Array.isArray(arr)) {
+        throw new TypeError(`${arr} is not array`)
+    }
+    if(arr.length === 0) return []
 
-    let result = []
+    let result = new Array().fill(arr.length)
+
     for(let i = 0; i < arr.length; i++) {
-        result.push(fn(arr[i], i, arr))
+        result[i] = fn(arr[i], i, arr)
     }
     return result
 };
