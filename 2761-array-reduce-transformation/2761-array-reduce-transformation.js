@@ -6,22 +6,30 @@
  */
 var reduce = function(nums, fn, init) {
 
-    const n = nums.length
     let accumulator = init
     let startIndex = 0
 
-    if(accumulator === undefined) {
-        for(let i = 0; i < n; i++) {
+    if(arguments.length > 1) {
+        accumulator = init
+    } else {
+        for(let i = 0; i < nums.length; i++) {
             if(nums.hasOwnProperty(i)) {
-                accumulator = nums[i]
-                startIndex = i + 1
-                break
+            accumulator = nums[i]
+            startIndex = i + 1
+            break
             }
+        }
+
+        if(accumulator === undefined) {
+            throw new TypeError(`Reduce of empty array with no initial value`)
         }
     }
 
-    for(let i = startIndex; i < n; i++) {
+    for(let i = startIndex; i < nums.length; i++) {
+        if(nums.hasOwnProperty(i)) {
         accumulator = fn(accumulator, nums[i], i, nums)
+        }
     }
+
     return accumulator
 };
