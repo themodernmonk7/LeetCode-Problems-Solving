@@ -6,6 +6,7 @@
 var canConstruct = function(ransomNote, magazine) {
     const charFreq = {}
 
+
     for(let char of magazine) {
         charFreq[char] = charFreq[char] ? charFreq[char] + 1 : 1
     }
