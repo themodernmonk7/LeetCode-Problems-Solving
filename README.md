@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0389-find-the-difference) |
 ## Prefix Sum
