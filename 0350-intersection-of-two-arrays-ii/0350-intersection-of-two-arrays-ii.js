@@ -4,20 +4,19 @@
  * @return {number[]}
  */
 var intersect = function(nums1, nums2) {
-  let numFreq = {}
+  let freq = {}
   let result = []
   
   for(let num of nums1) {
-    numFreq[num] = numFreq[num] ? numFreq[num] + 1 : 1
+    freq[num] = freq[num] ? freq[num] + 1 : 1
   }
   
-  console.log(numFreq)
   for(let num of nums2) {
-    if(numFreq[num]) {
-      console.log(num)
+    if(freq[num]) {
       result.push(num)
-      numFreq[num]--
+      freq[num]--
     }
   }
+  
   return result
 };
