@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Queue
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
