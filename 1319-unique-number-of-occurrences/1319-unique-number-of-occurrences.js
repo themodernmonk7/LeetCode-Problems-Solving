@@ -3,19 +3,15 @@
  * @return {boolean}
  */
 var uniqueOccurrences = function(arr) {
-    let numFreq = {}
+    let numFreq = new Map()
 
     for(let num of arr) {
-        numFreq[num] = numFreq[num] ? numFreq[num] + 1 : 1
+        numFreq.set(num, (numFreq.get(num) || 0) + 1)
     }
+    
 
+    let freqSet = new Set(numFreq.values());
 
-const array = Object.values(numFreq).sort()
-
-
-for(let i = 1; i < array.length; i++) {
-  if(array[i] === array[i-1]) return false
-}
-
-return true
+    console.log(numFreq.size)
+    return freqSet.size === numFreq.size;
 };
