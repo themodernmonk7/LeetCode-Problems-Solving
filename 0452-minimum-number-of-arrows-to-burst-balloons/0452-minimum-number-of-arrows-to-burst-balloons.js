@@ -15,9 +15,7 @@ var findMinArrowShots = function(points) {
     let arrows = 1
 
     for(let i = 1; i < sortPoints.length; i++) {
-        if(sortPoints[i][0] <= end) {
-            continue
-        } else {
+        if(sortPoints[i][0] > end) {
             arrows++
             end = sortPoints[i][1]
         }
