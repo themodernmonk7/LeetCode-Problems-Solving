@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1297-maximum-number-of-balloons) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
