@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
