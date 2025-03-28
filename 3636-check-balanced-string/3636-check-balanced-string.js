@@ -3,17 +3,16 @@
  * @return {boolean}
  */
 var isBalanced = function(num) {
-    let oddIndices = 0
-    let evenIndices = 0
+    let sum = 0
 
     for(let i = 0; i < num.length; i++) {
         const currentNum = parseInt(num[i])
         if(i % 2 === 0) {
-            evenIndices += currentNum
+            sum -= currentNum
         } else {
-            oddIndices += currentNum
+            sum += currentNum
         }
     }
 
-    return oddIndices === evenIndices
+    return sum === 0
 };
