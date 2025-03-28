@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
