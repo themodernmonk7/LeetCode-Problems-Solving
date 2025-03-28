@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [3379-score-of-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-score-of-a-string) |
 ## Queue
 |  |
 | ------- |
