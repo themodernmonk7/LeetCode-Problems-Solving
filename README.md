@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
 ## Dynamic Programming
@@ -293,4 +294,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
