@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0937-online-stock-span) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
