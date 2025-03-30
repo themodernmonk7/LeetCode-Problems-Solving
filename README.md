@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0232-implement-queue-using-stacks) |
@@ -319,13 +320,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
