@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0394-decode-string) |
@@ -315,4 +316,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
