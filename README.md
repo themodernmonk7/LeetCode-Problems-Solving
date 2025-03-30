@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1297-maximum-number-of-balloons) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1894-merge-strings-alternately) |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1297-maximum-number-of-balloons) |
