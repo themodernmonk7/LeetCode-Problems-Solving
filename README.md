@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0152-maximum-product-subarray) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
@@ -349,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0101-symmetric-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
