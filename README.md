@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
@@ -294,11 +295,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
