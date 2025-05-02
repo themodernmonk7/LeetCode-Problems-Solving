@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0033-search-in-rotated-sorted-array) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0134-gas-station) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0027-remove-element) |
