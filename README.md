@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2235-capitalize-the-title) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [3194-find-words-containing-character](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3636-check-balanced-string) |
 ## Queue
