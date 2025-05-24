@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
