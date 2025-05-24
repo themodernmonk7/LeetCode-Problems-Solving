@@ -20,5 +20,4 @@ var moveZeroes = function(nums) {
     nums[i] = 0
   }
   
-  return nums
 };
