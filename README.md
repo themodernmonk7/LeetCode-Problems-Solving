@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
