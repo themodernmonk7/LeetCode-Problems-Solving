@@ -11,15 +11,17 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root) {
-    let result = []
+    
+    const output = []
 
-    function preOrder(root) {
+    function preOrder (root) {
         if(root) {
-            result.push(root.val)
+            output.push(root.val)
             preOrder(root.left)
             preOrder(root.right)
         }
     }
+
     preOrder(root)
-    return result
+    return output
 };
