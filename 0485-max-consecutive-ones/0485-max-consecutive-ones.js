@@ -14,8 +14,6 @@ var findMaxConsecutiveOnes = function(nums) {
         } else {
             currentOne = 0
         }
-
     }
-
     return maxOnes
 };
