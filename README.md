@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
