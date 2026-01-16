@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0796-rotate-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1542-consecutive-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1542-consecutive-characters) |
@@ -415,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0098-validate-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
