@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2128-reverse-prefix-of-word](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2235-capitalize-the-title) |
+| [2278-percentage-of-letter-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2278-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3194-find-words-containing-character](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-score-of-a-string) |
