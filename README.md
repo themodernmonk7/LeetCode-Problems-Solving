@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0525-contiguous-array) |
 | [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1256-rank-transform-of-an-array) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1297-maximum-number-of-balloons) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
@@ -424,4 +428,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
