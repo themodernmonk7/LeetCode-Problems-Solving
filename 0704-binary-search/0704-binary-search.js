@@ -4,21 +4,22 @@
  * @return {number}
  */
 var search = function(nums, target) {
-     let leftIndex = 0
-    let rightIndex = nums.length - 1
-    // Run the while loop as long as array not become empty
-    while(leftIndex <= rightIndex) {
-      // Now each iteration find the middle element in the array
-      let middleIndex = Math.floor( (leftIndex + rightIndex) / 2)
-      if(target === nums[middleIndex]) {
-        return middleIndex
-      }
-      if(target < nums[middleIndex]) {
-        rightIndex = middleIndex - 1
-      } else {
-        leftIndex = middleIndex + 1
-      }
+ let left = 0
+  let right = nums.length - 1
+  
+  while(left <= right) {
+    let mid = Math.floor((left + right) / 2)
+    
+    if(nums[mid] === target) {
+      return mid
     }
-    return -1
-
+    
+    if(target < nums[mid]) {
+      right = mid - 1
+    } else {
+      left = mid + 1
+    }
+  }
+  
+  return -1
 };
