@@ -5,18 +5,19 @@
  */
 var map = function(arr, fn) {
     if(!Array.isArray(arr)) {
-        throw new TypeError('first argument must be an array')
+        throw new TypeError(`${arr} must be an array`)
     }
 
     if(typeof fn !== 'function') {
-        throw new TypeError(`${fn} is not a function`)
+        throw new TypeError(`${fn} must be a function`)
     }
 
     let result = []
+    const n = arr.length
 
-    for(let i = 0; i < arr.length; i++) {
+    for(let i = 0; i < n; i++) {
         if(i in arr) {
-        result[i] = fn(arr[i], i, arr)
+            result[i] = fn(arr[i], i, arr)
         }
     }
 
