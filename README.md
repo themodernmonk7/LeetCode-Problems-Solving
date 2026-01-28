@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1470-shuffle-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1470-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
