@@ -8,7 +8,7 @@ var majorityElement = function(nums) {
     let freq = {}
 
     for(let num of nums) {
-        freq[num] = (freq[num] || 0) + 1
+        freq[num] = freq[num] ? freq[num] + 1 : 1
 
         if(freq[num] > n / 2) return num
     }
