@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2128-reverse-prefix-of-word) |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2058-concatenation-of-array) |
