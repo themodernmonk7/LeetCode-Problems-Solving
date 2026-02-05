@@ -8,7 +8,7 @@ var calPoints = function(operations) {
     for(let operation of operations) {
       switch (operation) {
         case 'C': {
-          const right = stack.pop()
+          stack.pop()
           break;
         }
         case 'D': {
@@ -16,9 +16,12 @@ var calPoints = function(operations) {
           break;
         }
         case '+': {
+            if(stack.length >= 2) {
+
           const right = stack[stack.length - 1]
           const left = stack[stack.length - 2]
           stack.push(left + right)
+            }
           break;
         }
         
