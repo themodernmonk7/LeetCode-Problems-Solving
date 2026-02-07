@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
 |  |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3634-minimum-removals-to-balance-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
