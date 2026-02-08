@@ -11,16 +11,16 @@
  * @return {number[]}
  */
 var inorderTraversal = function(root) {
-    let output = []
+    let result = []
 
     const inOrder = (root) => {
         if(root) {
             inOrder(root.left)
-            output.push(root.val)
+            result.push(root.val)
             inOrder(root.right)
         }
     }
 
     inOrder(root)
-    return output
+    return result
 };
