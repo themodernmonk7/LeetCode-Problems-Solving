@@ -11,14 +11,16 @@
  * @return {number[]}
  */
 var postorderTraversal = function(root) {
-       let result = []
-    function postOrder(root) {
+    const result = []
+
+    function postOrder (root) {
         if(root) {
             postOrder(root.left)
             postOrder(root.right)
             result.push(root.val)
         }
     }
+
     postOrder(root)
     return result
 };
