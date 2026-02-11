@@ -1,24 +1,25 @@
 /**
- * @param {number[]} arr
- * @return {void} Do not return anything, modify arr in-place instead.
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
  */
-var sortColors = function(arr) {
-    const n = arr.length
+var sortColors = function(nums) {
+    const n = nums.length
     let start = 0
     let mid = 0
     let end = n - 1
-    
+
     while(mid <= end) {
-        if(arr[mid] === 0) {
-            [arr[mid], arr[start]] = [arr[start], arr[mid]]
+        if(nums[mid] === 0) {
+            [nums[mid], nums[start]] = [nums[start], nums[mid]]
             mid++
             start++
-        } else if(arr[mid] === 1) {
+        } else if (nums[mid] === 1) {
             mid++
         } else {
-            [arr[mid], arr[end]] = [arr[end], arr[mid]]
+            [nums[mid], nums[end]] = [nums[end], nums[mid]]
             end--
         }
     }
-    return arr
+
+    return nums
 };
