@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0435-non-overlapping-intervals) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0389-find-the-difference) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -369,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -477,13 +482,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Enumeration
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
