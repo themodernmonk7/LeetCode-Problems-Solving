@@ -14,5 +14,6 @@ var maxSubArray = function(nums) {
         if(currentSum <= 0) currentSum = 0
     }
 
-return maxSum    
+    return maxSum
+    
 };
