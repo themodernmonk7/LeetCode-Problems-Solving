@@ -7,7 +7,7 @@ class EventEmitter {
      */
      constructor() {
      this.events = {}
-     }
+     }t
     subscribe(eventName, callback) {
         if(!this.events[eventName]) {
             this.events[eventName] = []
