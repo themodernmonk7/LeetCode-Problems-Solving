@@ -4,17 +4,15 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-    const charFreq = {}
-
+    const freq = {}
 
     for(let char of magazine) {
-        charFreq[char] = charFreq[char] ? charFreq[char] + 1 : 1
+        freq[char] = freq[char] ? freq[char] + 1 : 1
     }
 
-
     for(let char of ransomNote) {
-        if(!charFreq[char]) return false
-        charFreq[char]--
+        if(!freq[char]) return false
+        freq[char]--
     }
 
     return true
