@@ -4,24 +4,25 @@
  * @return {boolean}
  */
 var isIsomorphic = function(s, t) {
-        const sN = s.length
-    const tN = t.length
+  
+  const nS = s.length
+  const nT = t.length
+  
+  if(nS !== nT) return false
+  
+  let sMap = new Map()
+  let tMap = new Map()
+  
+  
+  for(let i = 0; i < nS; i++) {
+    let sChar = s[i], tChar = t[i]
     
-    if(sN !== tN) return false
-    
-    let sMap = new Map()
-    let tMap = new Map()
-    
-    for(let i = 0; i < sN; i++) {
-      let sChar = s[i], tChar = t[i]
-      
-      if(sMap.has(sChar) && sMap.get(sChar) !== tChar || tMap.has(tChar) && tMap.get(tChar) !== sChar) {
-        return false
-      }
-      
-      sMap.set(sChar, tChar)
-      tMap.set(tChar, sChar)
+    if(sMap.has(sChar) && sMap.get(sChar) !== tChar || tMap.has(tChar) && tMap.get(tChar) !== sChar) {
+      return false
     }
-    
-    return true
+    sMap.set(sChar, tChar)
+    tMap.set(tChar, sChar)
+  }
+  
+  return true
 };
