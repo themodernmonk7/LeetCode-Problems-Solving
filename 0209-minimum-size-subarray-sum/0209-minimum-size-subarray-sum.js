@@ -4,10 +4,11 @@
  * @return {number}
  */
 var minSubArrayLen = function(target, nums) {
+
     const n = nums.length
+    let minSize = Infinity
     let left = 0
     let sum = 0
-    let minSize = Infinity
 
     for(let i = 0; i < n; i++) {
         sum += nums[i]
@@ -20,4 +21,5 @@ var minSubArrayLen = function(target, nums) {
     }
 
     return minSize === Infinity ? 0 : minSize
+    
 };
