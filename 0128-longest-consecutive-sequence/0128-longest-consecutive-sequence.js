@@ -11,13 +11,14 @@ var longestConsecutive = function(nums) {
 
     for(let i = 1; i < nums.length; i++) {
         if(sortNums[i] === sortNums[i - 1]) continue
-        if(sortNums[i] === sortNums[i - 1] + 1) {
+
+        if(sortNums[i] === sortNums[i-1] + 1) {
             streak++
         } else {
-            maxSize = Math.max(streak, maxSize)
+            maxSize = Math.max(maxSize, streak)
             streak = 1
         }
-    }    
+    }
 
-    return Math.max(streak, maxSize)
+    return Math.max(maxSize, streak)
 };
