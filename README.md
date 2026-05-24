@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2678-number-of-senior-citizens) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-find-words-containing-character](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3194-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3379-transformed-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
