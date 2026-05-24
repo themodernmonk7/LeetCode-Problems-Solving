@@ -3,18 +3,21 @@
  * @return {number}
  */
 var maxProfit = function(prices) {
- let max = 0
-  let bestBuy = prices[0]
-  
-  for(let i = 1; i < prices.length; i++) {
-    const price = prices[i]
-    
-    if(price > bestBuy) {
-      max = Math.max(max, (price - bestBuy))
-    } else {
-      bestBuy = Math.min(bestBuy, price)
-    }
-  }
-  return max
+    const n = prices.length
+    let bestBuy = prices[0]
+    let maxProfit = 0
 
+    for(let i = 1; i < n; i++) {
+        const price = prices[i]
+
+        if(price > bestBuy) {
+            // sell and book a profit
+            maxProfit = Math.max(maxProfit, (price - bestBuy))
+        } else {
+            // buy the stock
+            bestBuy = Math.min(bestBuy, price)
+        }
+    }
+
+    return maxProfit
 };
