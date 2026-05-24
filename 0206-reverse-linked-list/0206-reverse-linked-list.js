@@ -10,8 +10,8 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-    if(head === null) return null
 
+    if(head === null) return null
     if(head.next === null) return head
 
     let prev = null
@@ -23,6 +23,6 @@ var reverseList = function(head) {
         prev = current
         current = next
     }
+
     return prev
-    
 };
