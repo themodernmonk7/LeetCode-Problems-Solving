@@ -3,11 +3,10 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-    const n = s.length
     let left = 0
-    let maxLength = 0
+    const n = s.length
+    let result = 0
     let set = new Set()
-
 
     for(let i = 0; i < n; i++) {
         const char = s[i]
@@ -15,10 +14,10 @@ var lengthOfLongestSubstring = function(s) {
         while(set.has(char)) {
             set.delete(s[left])
             left++
-        }
+        } 
         set.add(char)
-        maxLength = Math.max(maxLength, i - left + 1)
+        result = Math.max(result, i - left + 1)
     }
 
-    return maxLength
+    return result
 };
