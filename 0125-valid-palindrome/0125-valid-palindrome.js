@@ -3,45 +3,40 @@
  * @return {boolean}
  */
 
-const isAlphanumeric = (string) => {
-  
-  if(typeof string !== 'string') {
-    throw new TypeError(`${string} must be a string`)
-  }
-  const value = string.trim()
-  const regex = /^[a-z0-9]+$/i
-  const isValid = regex.test(value)
-  
-  if(isValid) {
-    return true
-    
-  } else {
-    return false
-  }
-}
- 
-var isPalindrome = function(string) {
-      const n = string.length
-  let left = 0
-  let right = n - 1
-  
-  while(left < right) {
-    
-    if(!isAlphanumeric(string[left])) {
-      left++
-      continue
-    }
-    
-    if(!isAlphanumeric(string[right])) {
-      right--
-      continue
-    }
-    
-    if(string[left].toLowerCase() !== string[right].toLowerCase()) return false
-    left++
-    right--
-  }
-  
-  return true
 
+const isAlphanumeric = (string) => {
+  const code = string.charCodeAt(0)
+  
+  // A-Z
+  if(code >= 65 && code <= 90) return true
+  // a-z
+  if(code >= 97 && code <= 122) return true
+  // 0 - 9      
+  if(code >= 48 && code <= 57) return true
+  return false
+}
+
+
+var isPalindrome = function(s) {
+    let left = 0
+    let right = s.length - 1
+    
+    
+    while(left < right) {
+      if(!isAlphanumeric(s[left])) {
+        left++
+        continue
+      }
+      
+      if(!isAlphanumeric(s[right])) {
+        right--
+        continue
+      }
+      
+      if(s[left].toLowerCase() !== s[right].toLowerCase()) return false
+      left++
+      right--
+    }
+    
+    return true
 };
