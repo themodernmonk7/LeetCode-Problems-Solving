@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
