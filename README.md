@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1848-sum-of-unique-elements) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2235-capitalize-the-title) |
 | [2278-percentage-of-letter-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2278-percentage-of-letter-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2678-number-of-senior-citizens](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3110-score-of-a-string) |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Quickselect
 |  |
