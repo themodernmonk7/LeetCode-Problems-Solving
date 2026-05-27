@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3636-check-balanced-string) |
