@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3194-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
