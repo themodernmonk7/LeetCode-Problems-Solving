@@ -3,33 +3,31 @@
  * @return {number[]}
  */
 var asteroidCollision = function(asteroids) {
-  const stack = [];
+    let stack = []
 
-  for (let ast of asteroids) {
-    let alive = true;
 
-    while (
-      alive &&
-      stack.length > 0 &&
-      stack[stack.length - 1] > 0 &&
-      ast < 0
-    ) {
-      const top = stack[stack.length - 1];
+    for(let ast of asteroids) {
+        let alive = true
 
-      if (Math.abs(top) < Math.abs(ast)) {
-        stack.pop(); // top destroyed
-      } else if (Math.abs(top) > Math.abs(ast)) {
-        alive = false; // current destroyed
-      } else {
-        stack.pop();   // both destroyed
-        alive = false;
-      }
+        while(alive && stack.length > 0 && stack[stack.length - 1 ] > 0 && ast < 0) {
+
+            const top = stack[stack.length - 1]
+
+            if(Math.abs(top) < Math.abs(ast)) {
+                stack.pop()
+            } else if(Math.abs(top) > Math.abs(ast)) {
+                alive = false
+            } else {
+                stack.pop()
+                alive = false
+            }
+        }
+
+
+        if(alive) {
+            stack.push(ast)
+        }
     }
 
-    if (alive) {
-      stack.push(ast);
-    }
-  }
-
-  return stack;
+    return stack
 };
