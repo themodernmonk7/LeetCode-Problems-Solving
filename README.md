@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2678-number-of-senior-citizens](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2678-number-of-senior-citizens) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2126-destroying-asteroids](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
