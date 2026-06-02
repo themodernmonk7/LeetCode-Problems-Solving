@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2128-reverse-prefix-of-word](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2733-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
@@ -260,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themodernmonk7/LeetCode-Problems-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
